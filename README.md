@@ -1,0 +1,1 @@
+Two processes P and Q that have logical clocks which increment at different rates. Both send each other a message at random. When a process receives a message, it updates it's logical clock appropriately
